@@ -4,3 +4,6 @@
 [submodule "CarND-Term1-Starter-Kit"]
 	path = CarND-Term1-Starter-Kit
 	url = ./CarND-Term1-Starter-Kit
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = ./CarND-LaneLines-P1
