@@ -7,3 +7,6 @@
 [submodule "CarND-LaneLines-P1"]
 	path = CarND-LaneLines-P1
 	url = ./CarND-LaneLines-P1
+[submodule "sdc-lanelines"]
+	path = sdc-lanelines
+	url = git@github.com:supertetelman/sdc-lanelines.git
