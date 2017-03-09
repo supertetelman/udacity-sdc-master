@@ -1,12 +1,21 @@
 [submodule "CarND-Term1-Starter-Kit-Test"]
-	path = CarND-Term1-Starter-Kit-Test
+	path = external-resources/CarND-Term1-Starter-Kit-Test
 	url = ./CarND-Term1-Starter-Kit-Test
 [submodule "CarND-Term1-Starter-Kit"]
-	path = CarND-Term1-Starter-Kit
+	path = external-resources/CarND-Term1-Starter-Kit
 	url = ./CarND-Term1-Starter-Kit
 [submodule "CarND-LaneLines-P1"]
-	path = CarND-LaneLines-P1
+	path = external-resources/CarND-LaneLines-P1
 	url = ./CarND-LaneLines-P1
 [submodule "sdc-lanelines"]
 	path = sdc-lanelines
 	url = git@github.com:supertetelman/sdc-lanelines.git
+[submodule "CarND-TensorFlow-Lab"]
+	path = external-resources/CarND-TensorFlow-Lab
+	url = https://github.com/udacity/CarND-TensorFlow-Lab.git
+[submodule "CarND-LeNet-Lab"]
+	path = external-resources/CarND-LeNet-Lab
+	url = https://github.com/udacity/CarND-LeNet-Lab.git
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = external-resources/CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
