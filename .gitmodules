@@ -19,3 +19,6 @@
 [submodule "CarND-Traffic-Sign-Classifier-Project"]
 	path = external-resources/CarND-Traffic-Sign-Classifier-Project
 	url = https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+[submodule "external-resources/CarND-Alexnet-Feature-Extraction"]
+	path = external-resources/CarND-Alexnet-Feature-Extraction
+	url = https://github.com/udacity/CarND-Alexnet-Feature-Extraction
