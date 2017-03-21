@@ -22,3 +22,6 @@
 [submodule "external-resources/CarND-Alexnet-Feature-Extraction"]
 	path = external-resources/CarND-Alexnet-Feature-Extraction
 	url = https://github.com/udacity/CarND-Alexnet-Feature-Extraction
+[submodule "external-resources/CarND-Behavioral-Cloning-P3"]
+	path = external-resources/CarND-Behavioral-Cloning-P3
+	url = git@github.com:udacity/CarND-Behavioral-Cloning-P3.git
