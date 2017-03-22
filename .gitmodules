@@ -25,3 +25,6 @@
 [submodule "external-resources/CarND-Behavioral-Cloning-P3"]
 	path = external-resources/CarND-Behavioral-Cloning-P3
 	url = git@github.com:udacity/CarND-Behavioral-Cloning-P3.git
+[submodule "external-resources/CarND-Transfer-Learning-Lab"]
+	path = external-resources/CarND-Transfer-Learning-Lab
+	url = https://github.com/udacity/CarND-Transfer-Learning-Lab
