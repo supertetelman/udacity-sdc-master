@@ -1,0 +1,3 @@
+python feature_extraction.py
+python train_feature_extraction.py
+python traffic_sign_inference.py
