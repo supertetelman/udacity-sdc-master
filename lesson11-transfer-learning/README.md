@@ -12,4 +12,7 @@ After doing that you you will need to go into each of those two repositories and
 `bash  ../external-resources/CarND-Alexnet-Feature-Extraction/get_data.sh`
 `bash ../external-resources/CarND-Transfer-Learning-Lab/get_data.sh`
 
-After that you should be good to run any of the programs you copied.
+After that you should be good to run any of the programs you copied. In each repo running the run_models.sh shell script will duplicate the activities done during the lab.
+
+`bash  ../external-resources/CarND-Alexnet-Feature-Extraction/run_models.sh`
+`bash ../external-resources/CarND-Transfer-Learning-Lab/run_models.sh`
