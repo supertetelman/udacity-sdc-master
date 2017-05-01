@@ -31,3 +31,6 @@
 [submodule "sdc-behavioral-cloning"]
 	path = sdc-behavioral-cloning
 	url = git@github.com:supertetelman/sdc-behavioral-cloning.git
+[submodule "external-resources/CarND-Camera-Calibration"]
+	path = external-resources/CarND-Camera-Calibration
+	url = https://github.com/udacity/CarND-Camera-Calibration
