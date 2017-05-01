@@ -34,3 +34,6 @@
 [submodule "external-resources/CarND-Camera-Calibration"]
 	path = external-resources/CarND-Camera-Calibration
 	url = https://github.com/udacity/CarND-Camera-Calibration
+[submodule "external-resources/CarND-Advanced-Lane-Lines"]
+	path = external-resources/CarND-Advanced-Lane-Lines
+	url = https://github.com/udacity/CarND-Advanced-Lane-Lines
