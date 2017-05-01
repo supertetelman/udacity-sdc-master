@@ -43,3 +43,6 @@
 [submodule "external-resources/self-driving-car-sim"]
 	path = external-resources/self-driving-car-sim
 	url = git@github.com:udacity/self-driving-car-sim.git
+[submodule "sdc-traffic-sign-classification"]
+	path = sdc-traffic-sign-classification
+	url = git@github.com:supertetelman/sdc-traffic-sign-classification.git
