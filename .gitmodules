@@ -28,3 +28,6 @@
 [submodule "external-resources/CarND-Transfer-Learning-Lab"]
 	path = external-resources/CarND-Transfer-Learning-Lab
 	url = https://github.com/udacity/CarND-Transfer-Learning-Lab
+[submodule "sdc-behavioral-cloning"]
+	path = sdc-behavioral-cloning
+	url = git@github.com:supertetelman/sdc-behavioral-cloning.git
