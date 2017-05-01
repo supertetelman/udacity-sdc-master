@@ -40,3 +40,6 @@
 [submodule "sdc-advanced-lane-lines"]
 	path = sdc-advanced-lane-lines
 	url = git@github.com:supertetelman/sdc-advanced-lane-lines.git
+[submodule "external-resources/self-driving-car-sim"]
+	path = external-resources/self-driving-car-sim
+	url = git@github.com:udacity/self-driving-car-sim.git
