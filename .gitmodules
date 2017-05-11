@@ -46,3 +46,6 @@
 [submodule "sdc-traffic-sign-classification"]
 	path = sdc-traffic-sign-classification
 	url = git@github.com:supertetelman/sdc-traffic-sign-classification.git
+[submodule "external-resources/self-driving-car"]
+	path = external-resources/self-driving-car
+	url = git@github.com:udacity/self-driving-car.git
