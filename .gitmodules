@@ -52,3 +52,6 @@
 [submodule "sdc-vehicle-detection"]
 	path = sdc-vehicle-detection
 	url = git@github.com:supertetelman/sdc-vehicle-detection.git
+[submodule "external-resources/CarND-Vehicle-Detection"]
+	path = external-resources/CarND-Vehicle-Detection
+	url = git@github.com:udacity/CarND-Vehicle-Detection.git
