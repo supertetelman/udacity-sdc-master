@@ -49,3 +49,6 @@
 [submodule "external-resources/self-driving-car"]
 	path = external-resources/self-driving-car
 	url = git@github.com:udacity/self-driving-car.git
+[submodule "sdc-vehicle-detection"]
+	path = sdc-vehicle-detection
+	url = git@github.com:supertetelman/sdc-vehicle-detection.git
